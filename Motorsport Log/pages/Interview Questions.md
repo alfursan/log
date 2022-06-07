@@ -1,0 +1,9 @@
+- Hi <name>
+- Could you please introduce yourself to our viewers
+- What does <companyName> specialize in?
+- What makes <companyName> different that has led to its massive success?
+- What would you say is the greatest achievement of <companyName> so far?
+- CANCELED What is your vision for this company in the next 5 years?
+- What advice would you give to budding youth out there?
+- ## Specialized Questions
+	- You mentioned the Kaizen Systems multiple times. What is it and why do you emphasize so much on that?

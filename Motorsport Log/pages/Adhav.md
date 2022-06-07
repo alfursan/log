@@ -1,0 +1,5 @@
+- ![Adhav.jpg](../assets/Adhav_1643190490392_0.jpg)
+- Full name
+- Year 3
+- Mechanical
+- Design, Power Train

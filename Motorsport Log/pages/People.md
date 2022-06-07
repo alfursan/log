@@ -1,0 +1,22 @@
+- India
+  can be coordinators
+	- [[Aryan]]
+	- [[Shubh]]
+	- [[Mrinal]]
+- Weekends
+	- [[Vivian]]
+	- [[Amith]]
+- PS
+	- [[Shobal]] (After 5)
+	- [[Azhar]]
+	- [[Alric]]
+	- [[Abhilash]]
+	- [[Devika]]
+	- [[Daniel]]
+- Ready
+	- [[Anandhu]]
+	- [[Adhav]]
+	- [[Anirudh]]
+	- [[Nigel]]
+	- [[Vaishnavi]]
+	- [[Thahir]] (off-site for a while)

@@ -1,0 +1,3 @@
+- **Profile Images**
+	- Dim: 250 x 250
+	- Quality: 75

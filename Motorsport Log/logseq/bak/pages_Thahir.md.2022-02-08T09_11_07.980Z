@@ -1,0 +1,8 @@
+- ![Thahir.jpg](../assets/Thahir_1643190283714_0.jpg)
+- Ahmed Thahir
+- Year 2
+- CS
+- **Roles**
+	- Documentation
+	- Head #Creative
+	- Filming/Editing

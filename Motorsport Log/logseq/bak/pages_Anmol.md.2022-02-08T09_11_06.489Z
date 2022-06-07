@@ -1,0 +1,8 @@
+-
+- Anmol Deepak Kumar
+- Year 2
+- CS
+- Coordinator #Creative
+	- update Thahir on what is going
+	- ensure work is getting done
+	- coordinate with people and tasks

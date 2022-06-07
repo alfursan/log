@@ -1,0 +1,79 @@
+- # Introduction
+	- ## Problem Statement
+		- Quantify applicants' aptitude through form answers
+	- ## Proposal
+		- A function `Points` with range $P \in [0, 100]$
+		- ((6288a3ed-b2f0-4926-8db8-d68f3b1fb7fd))
+		- Quantifies
+			- |Factor|Quantified by|Importance|
+			  |--|--|--|
+			  |Tendency to self-learn|Number of attempted questions|Primary|
+			  |Ability to simplify concepts|Average Answer Length|Secondary|
+			  |Attention to detail|Capitalization of letters in ID|Tertiary|
+			- The ability to simplify concepts can be learnt over time
+- # Function
+	- $$
+	  \begin{aligned}
+	  P & \propto \text{Number of Attempted Questions} \\
+	     & \propto \dfrac{1}{\text{Average Answer Length} } \\
+	     & \propto \text{Number of Capital Letters in ID} \\
+	  \end{aligned}
+	  $$
+	- Let $P(Q, L, C) = {\Big \lceil w_Q Q - w_L L+ w_C C \Big \rceil}_2$
+		- The result is rounded-off to 2 decimal places for simplicity
+		- | Term|Meaning|
+		  |--|--|
+		  |$Q$|Number of attempted questions |
+		  |$L$|Average answer length (number of characters) |
+		  |$C$|Number of capital Letters|
+		  |$w_Q$|Positive weight of attempting questions |
+		  |$-w_L$|Negative weight of long answers |
+		  |$w_C$|Positive weight of capital letters|
+		- Attention to detail is important for [[Thahir]], but the other two factors are more important for the 'self-learning' idea that [[Priyank]] sir proposes
+	- After trial and error (could be improved)
+		- $$
+		  P(Q, L, C) = {
+		  \Big \lceil
+		  30 Q -
+		  0.05 L +
+		  2C
+		  \Big \rceil}_2
+		  $$
+- # Verification
+	- Testing Upper and Lower Bounds
+	- This is quite similar to Digital Design Truth Tables (MSB-LSB concept)
+	- | Points | Attempted Questions | Average Answer Length | Caps Points |
+	  | ------ | ------------------- | --------------------- | ----------- |
+	  | 96.8   | 3                   | 24                    | 4           |
+	  | 88.8   | 3                   | 24                    | 0           |
+	  | 78     | 3                   | 400                   | 4           |
+	  | 70     | 3                   | 400                   | 0           |
+	  | 66.8   | 2                   | 24                    | 4           |
+	  | 58.8   | 2                   | 24                    | 0           |
+	  | 48     | 2                   | 400                   | 4           |
+	  | 40     | 2                   | 400                   | 0           |
+	  | 36.8   | 1                   | 24                    | 4           |
+	  | 28.8   | 1                   | 24                    | 0           |
+	  | 18     | 1                   | 400                   | 4           |
+	  | 10     | 1                   | 400                   | 0           |
+	  | 8      | 0                   | 0                     | 4           |
+	  | 0      | 0                   | 0                     | 0           |
+- # Implementation
+	- ## Attempted Questions
+		- ```mysql
+		  =ARRAYFORMULA( IF(ISBLANK(G3:G), "",
+		  	COUNTA(G3)
+		  ) )
+		  ```
+	- ## Average Length
+		- ```mysql
+		  =ARRAYFORMULA( IF(ISBLANK(G3:G), "",
+		  	LEN(G3)/D3
+		  ) )
+		  ```
+	- ## Points
+		- ``` mysql
+		  =ARRAYFORMULA( IF(ISBLANK(E3:E), "",
+		  	round( 30*B3:B - 0.05*D3:D + 2*C3:C , 2)
+		  ) )
+		  ```

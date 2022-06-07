@@ -1,0 +1,3 @@
+- Mrinal Linga
+- Year 4
+- Mechanical
