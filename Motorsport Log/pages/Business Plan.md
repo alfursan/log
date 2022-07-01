@@ -1,0 +1,28 @@
+by:: [[Thahir]]
+
+- # 5 Departments
+	- ## Value Creation
+	  collapsed:: true
+		- |Value|Value Type|
+		  |--|--|
+		  |Car|Product|
+		  |Advertising for Sponsors|Agency|
+		- Experimentation budget
+	- ## Marketing
+	  collapsed:: true
+		- Instagram
+	- ## Sales
+	  collapsed:: true
+		- Prototype - MVP (Minimum viable product)
+		- Sponsorship Pitches
+			- Everyone should wear formals and tie
+	- ## Value Delivery
+	  collapsed:: true
+		- |Value|Value Delivery|
+		  |--|--|
+		  |Car|Design, Prototype, Assembly, Testing|
+		  |Advertising for Sponsors|Monthly Social Media Posts[:br]Sponsor Logo on Car|
+	- ## Finance
+- # 1 Page Business Plan
+	- ![business-plan.pdf](../assets/business-plan_1655752050975_0.pdf)
+	- Print this

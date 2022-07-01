@@ -1,57 +1,80 @@
 - # Misc guidelines for the team
   background-color:: #264c9b
+  collapsed:: true
 	- Be polite and respectful with everyone
+	  collapsed:: true
 		- Team spirit is very important
 	- Instead of thinking all of this as work, think of this as an outlet of your passion
 	- Everyone should have 5 new pieces of work with them at any time
+	  collapsed:: true
 		- work could mean text content, idea, design, whatever
 		- this is to ensure that you can stay calm, in case of a creative drought
 	- Every once in a while just check the team log to keep updated with the progress of the entire team
+	  collapsed:: true
 		- no one is gonna force, but it's good to know what is happening outside of your team as well
 - # Hierarchy
   background-color:: #533e7d
+  collapsed:: true
 	- Hover over the image and click the full screen button to see fully
+	  collapsed:: true
 		- ![creativeTeam.svg](../assets/creativeTeam_1643539850744_0.svg)
 	- It is implied that Thahir **can** help out, but mainly I'm in on-site team under anirudh
 	- Website is not the priority right now
 - # Communication
   background-color:: #497d46
   id:: 61f64424-45e0-443e-b1ad-75b27ce77083
+  collapsed:: true
 	- ## Private
+	  collapsed:: true
 		- if something concerns just 2 people, just clear it out on private chat
 		- for example, if anyone just wants to discuss with Thahir about some design, feel free to send a private message
 	- ## Groupchats
+	  collapsed:: true
 		- ==**please avoid spam**== because if there is something actually important, it's hard to find it
+		  collapsed:: true
 			- even I myself haven't followed this so far, i'll accept that
 		- If a message is expecting of a reply, don't just seen-zone it ... Put 👍
 		- ### Inter-team
+		  collapsed:: true
 			- main whatsapp group with everyone in #Creative team
 			- only major updates concerning everyone should be sent here
 		- ### Intra-team
+		  collapsed:: true
 			- [[Anmol]] will be in each of them and only he will report to [[Thahir]] about daily updates
 	- ## Comments
+	  collapsed:: true
 		- small comments to be discussed on intra-team group
 		- if the discussion leads to a conclusion
+		  collapsed:: true
 		  (such as: the font should be changed)
 			- these comments should be added on google drive, so that the issues can be tracked
+			  collapsed:: true
 				- if you've got any doubts on how to add comments, [click here](https://drive.google.com/file/d/1imMM-s4VihLR0a2_zKBEGccZOCBBo6kV/view)
 			- once the change has been made
+			  collapsed:: true
 				- the designer will re-upload the file with the ==same name==
+				  collapsed:: true
 					- so that the comments and highlights will remain
 				- and then click 'resolved' to mark it as done
 	- ## Log
+	  collapsed:: true
 	  [Click Here](https://ahmedthahir.github.io/MotorsportBPDC/Export/)
 		- This log has the daily workings of the team
 		- Only report the big updates for the documentation
+		  collapsed:: true
 			- Otherwise it is gonna get messy
 		- If you have something to report, message [[Anmol]]
 - # Workflow
   background-color:: #787f97
+  collapsed:: true
 	- ## Photos
+	  collapsed:: true
 		- On-site crew gets pictures, footage
 		- Editors pick their favorites and start working on them
 	- ## Videos
+	  collapsed:: true
 		- Filming
+		  collapsed:: true
 		  I am going for more of a run-and-gun look, so I'm trying to keep it pretty minimal; otherwise, filming might get clunky
 			- A Cam
 			  collapsed:: true
@@ -75,11 +98,14 @@
 				- ((d6576302-2471-401c-b3e1-b8e475efb1a1))
 				- ((4bdc17ac-2c04-4ecc-a347-c81dfe8e4906))
 		- Editing
+		  collapsed:: true
 			- Davinci Resolve
 	- ## Educational Content
+	  collapsed:: true
 		- Shobal gives educational content
 		- Designer converts that content into a pretty post
 	- Social Media Manager uploads
+	  collapsed:: true
 		- **Suggestion**: the social media manager can also have a fake account where they see how uploads would appear
 		- this way we can match the grid and stuff
 		- idk for sure, just a suggesion
@@ -88,13 +114,18 @@
 	- we have unlimited drive storage, so don't worry
 	- make sure you strictly follow this to avoid future complications with finding stuff
 	- everything should be uploaded on every person's corresponding GDrive folder
+	  collapsed:: true
 		- Personal Sub-Folders
+		  collapsed:: true
 			- Create some kind of folder structure that you're comfortable with
 			- For eg, I name the folder as the date I got the idea for the design
+			  collapsed:: true
 				- If you would like to view Thahir's , [click here](https://drive.google.com/drive/u/1/folders/1fNJiKJ5tnfbY1Eza0O3EXWhosKCn4StM)
 		- Files
+		  collapsed:: true
 			- source file (.psd, .ai, etc)
 			- exported image
+			  collapsed:: true
 				- |Type of design|Export Format|
 				  |--|--|
 				  |Illustration|PNG|

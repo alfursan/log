@@ -1,0 +1,3 @@
+- 3rd year
+- Mechanical
+- Interested in marketing

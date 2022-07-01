@@ -2,6 +2,7 @@
   collapsed:: true
 	- ![student_form.png](../assets/student_form_1653321610968_0.png)
 - # Aptitude
+  collapsed:: true
 	- This section is a bonus section, to see who will take the extra effort to fill this up
 	- Correctness is **not** the major focus
 	  id:: 6288a3ed-b2f0-4926-8db8-d68f3b1fb7fd
@@ -34,3 +35,9 @@
 			  	2, FALSE)
 			  ))
 			  ```
+- # Execution
+	- To understand different types of people
+	  (who is active on various platforms)
+		- 1. send application on mail
+		  2. Then, few days later WhatsApp
+		  3. Then, few days later Instagram video
