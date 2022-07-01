@@ -81,7 +81,7 @@
   :block/updated-at 1650277409002}
  {:block/name "application",
   :block/created-at 1653119441734,
-  :block/updated-at 1653809584359}
+  :block/updated-at 1656706628949}
  {:block/name "application/non-student form",
   :block/created-at 1653120179217,
   :block/updated-at 1653321651808}
@@ -93,7 +93,7 @@
   :block/updated-at 1653367935703}
  {:block/name "application/student form",
   :block/created-at 1653119375845,
-  :block/updated-at 1653322030296}
+  :block/updated-at 1656706719139}
  {:block/name "apr 10th, 2022",
   :block/created-at 1650277408829,
   :block/updated-at 1650277408829}
@@ -138,7 +138,7 @@
   :block/updated-at 1654619622770}
  {:block/name "business plan",
   :block/created-at 1655751584112,
-  :block/updated-at 1655958371288}
+  :block/updated-at 1656712017764}
  {:block/name "c",
   :block/created-at 1650277418473,
   :block/updated-at 1650277418473}
@@ -181,7 +181,7 @@
  {:block/name
   "electrical vehicle infrastructure: exploration and exhortation",
   :block/created-at 1656699705438,
-  :block/updated-at 1656705582511}
+  :block/updated-at 1656706502944}
  {:block/name "engine efficiency",
   :block/created-at 1654851052368,
   :block/updated-at 1654851052368}
@@ -378,7 +378,7 @@
   :block/updated-at 1656235017737}
  {:block/name "jun 27th, 2022",
   :block/created-at 1656323286014,
-  :block/updated-at 1656323409004}
+  :block/updated-at 1656711766872}
  {:block/name "jun 3rd, 2022",
   :block/created-at 1654851052107,
   :block/updated-at 1654851052107}
