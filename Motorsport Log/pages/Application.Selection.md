@@ -1,4 +1,5 @@
 alias:: Evaluation
+public:: false
 
 - The query view for evaluators will show only one detail - id (as it is primary key)
 	- to help minimize bias

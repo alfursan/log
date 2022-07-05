@@ -1,0 +1,2 @@
+- Auto forward BMS Mails to corresponding team
+	- BMS mail should never be used unless absolutely n necessary

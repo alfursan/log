@@ -360,22 +360,16 @@
   :block/updated-at 1656698871994}
  {:block/name "jul 2nd, 2022",
   :block/created-at 1656705604006,
-  :block/updated-at 1656705604006}
+  :block/updated-at 1656761657225}
+ {:block/name "jul 3rd, 2022",
+  :block/created-at 1656837284894,
+  :block/updated-at 1656837760483}
  {:block/name "jun 20th, 2022",
   :block/created-at 1655957082454,
   :block/updated-at 1655957082454}
- {:block/name "jun 21st, 2022",
-  :block/created-at 1655828716522,
-  :block/updated-at 1655828716522}
  {:block/name "jun 22nd, 2022",
   :block/created-at 1656699751433,
-  :block/updated-at 1656699785266}
- {:block/name "jun 23rd, 2022",
-  :block/created-at 1655957077038,
-  :block/updated-at 1655957077038}
- {:block/name "jun 26th, 2022",
-  :block/created-at 1656235017737,
-  :block/updated-at 1656235017737}
+  :block/updated-at 1656837656958}
  {:block/name "jun 27th, 2022",
   :block/created-at 1656323286014,
   :block/updated-at 1656711766872}
@@ -448,6 +442,9 @@
  {:block/name "marshal",
   :block/created-at 1650277407460,
   :block/updated-at 1650277407460}
+ {:block/name "may 24th, 2022",
+  :block/created-at 1656760661247,
+  :block/updated-at 1656760950560}
  {:block/name "may 9th, 2022",
   :block/created-at 1652105430216,
   :block/updated-at 1653121679967}
@@ -475,6 +472,9 @@
  {:block/name "now",
   :block/created-at 1650277418473,
   :block/updated-at 1650277418473}
+ {:block/name "organization and documentation",
+  :block/created-at 1656761329745,
+  :block/updated-at 1656761342536}
  {:block/name "people",
   :block/created-at 1650277409658,
   :block/updated-at 1650277409658}

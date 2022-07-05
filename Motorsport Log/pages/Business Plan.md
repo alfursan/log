@@ -1,4 +1,5 @@
 by:: [[Thahir]]
+public:: false
 
 - # 5 Departments
 	- ## Value Creation

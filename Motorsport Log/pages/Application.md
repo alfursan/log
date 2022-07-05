@@ -1,4 +1,5 @@
 by:: [[Thahir]]
+public:: false
 
 - # Introduction
   collapsed:: true
