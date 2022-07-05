@@ -81,19 +81,19 @@
   :block/updated-at 1650277409002}
  {:block/name "application",
   :block/created-at 1653119441734,
-  :block/updated-at 1656706628949}
+  :block/updated-at 1657052952380}
  {:block/name "application/non-student form",
   :block/created-at 1653120179217,
-  :block/updated-at 1653321651808}
+  :block/updated-at 1657052962434}
  {:block/name "application/point system",
   :block/created-at 1653117549788,
-  :block/updated-at 1653809579194}
+  :block/updated-at 1657052974272}
  {:block/name "application/selection",
   :block/created-at 1653322039929,
-  :block/updated-at 1653367935703}
+  :block/updated-at 1657052985633}
  {:block/name "application/student form",
   :block/created-at 1653119375845,
-  :block/updated-at 1656706719139}
+  :block/updated-at 1657052995820}
  {:block/name "apr 10th, 2022",
   :block/created-at 1650277408829,
   :block/updated-at 1650277408829}
@@ -138,7 +138,7 @@
   :block/updated-at 1654619622770}
  {:block/name "business plan",
   :block/created-at 1655751584112,
-  :block/updated-at 1656712017764}
+  :block/updated-at 1657052935024}
  {:block/name "c",
   :block/created-at 1650277418473,
   :block/updated-at 1650277418473}
@@ -364,6 +364,9 @@
  {:block/name "jul 3rd, 2022",
   :block/created-at 1656837284894,
   :block/updated-at 1656837760483}
+ {:block/name "jul 6th, 2022",
+  :block/created-at 1657052900608,
+  :block/updated-at 1657052900608}
  {:block/name "jun 20th, 2022",
   :block/created-at 1655957082454,
   :block/updated-at 1655957082454}
