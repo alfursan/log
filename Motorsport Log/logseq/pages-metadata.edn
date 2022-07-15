@@ -87,7 +87,7 @@
   :block/updated-at 1657052962434}
  {:block/name "application/point system",
   :block/created-at 1653117549788,
-  :block/updated-at 1657052974272}
+  :block/updated-at 1657398780251}
  {:block/name "application/selection",
   :block/created-at 1653322039929,
   :block/updated-at 1657052985633}
@@ -355,27 +355,39 @@
  {:block/name "jasjeev singh",
   :block/created-at 1652109579650,
   :block/updated-at 1653121180236}
+ {:block/name "jul 14th, 2022",
+  :block/created-at 1657779498483,
+  :block/updated-at 1657779498483}
+ {:block/name "jul 15th, 2022",
+  :block/created-at 1657888370339,
+  :block/updated-at 1657888370339}
  {:block/name "jul 1st, 2022",
-  :block/created-at 1656698735714,
-  :block/updated-at 1656698871994}
+  :block/created-at 1657779511970,
+  :block/updated-at 1657888639134}
  {:block/name "jul 2nd, 2022",
-  :block/created-at 1656705604006,
-  :block/updated-at 1656761657225}
+  :block/created-at 1657779512603,
+  :block/updated-at 1657779512603}
  {:block/name "jul 3rd, 2022",
-  :block/created-at 1656837284894,
-  :block/updated-at 1656837760483}
- {:block/name "jul 6th, 2022",
-  :block/created-at 1657052900608,
-  :block/updated-at 1657052900608}
- {:block/name "jul 8th, 2022",
-  :block/created-at 1657268340964,
-  :block/updated-at 1657268340964}
+  :block/created-at 1657779513219,
+  :block/updated-at 1657779513219}
+ {:block/name "jun 13th, 2022",
+  :block/created-at 1655097062891,
+  :block/updated-at 1655097062891}
+ {:block/name "jun 16th, 2022",
+  :block/created-at 1655360185430,
+  :block/updated-at 1655360185430}
  {:block/name "jun 20th, 2022",
   :block/created-at 1655957082454,
   :block/updated-at 1655957082454}
  {:block/name "jun 22nd, 2022",
   :block/created-at 1656699751433,
   :block/updated-at 1656837656958}
+ {:block/name "jun 23rd, 2022",
+  :block/created-at 1655957077038,
+  :block/updated-at 1655957077038}
+ {:block/name "jun 24th, 2022",
+  :block/created-at 1656054072120,
+  :block/updated-at 1656054072120}
  {:block/name "jun 27th, 2022",
   :block/created-at 1656323286014,
   :block/updated-at 1656711766872}
@@ -449,8 +461,8 @@
   :block/created-at 1650277407460,
   :block/updated-at 1650277407460}
  {:block/name "may 24th, 2022",
-  :block/created-at 1656760661247,
-  :block/updated-at 1656760950560}
+  :block/created-at 1657779509774,
+  :block/updated-at 1657779509774}
  {:block/name "may 9th, 2022",
   :block/created-at 1652105430216,
   :block/updated-at 1653121679967}
