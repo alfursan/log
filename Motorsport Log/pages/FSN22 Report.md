@@ -1,0 +1,41 @@
+sent_by:: [[Adhav]]
+
+- # Cost report
+	- Have to include all the costs (material, cost of processes, labour with ~~man~~ people hours)
+	- For eg, IA
+		- STABDARD IA
+		- 4 BOLTS
+		- DRILLED HOLES X4
+		- DRILLED HLLES IN AIP
+		- COST OF FASTENING BOLTS
+- # Business Plan Presentation
+	- Too much text
+	- Read the slides too much
+	- Font wasnt clear
+	- If 2 ppl are presenting, stay in your place and present. Dont keep moving around
+	  Term to be used is "break even point", and not "return on investment"
+	- You can have backup slides after "thank you slifes" for Q n A session. Eg : "extra charts, more information"
+- # BOM
+	- Bill of Materials
+	- Atleast 2 copies of BOM
+	- Atleast 2 people should know contents of the BOM
+	- Point reduction for scrolling through and taking time. Expected to find the requested part in a quick way..
+	- Template to be used  rom FSG website, but unit prices are to be given on our own. Choose reasonable prices, and costs may vary from country to country but its okay.
+	- Judges don't judge based on which car is cheaper. We have to convince them that the price is what is available in our country
+	- ## Supporting file
+		- Raw material cost, why is the cost of things in the BOM the way it us?
+	- ## Cost of Machining a part
+		- calculate the hourly cost for using a machine
+		- include the electrical costs, ~~man~~ people hours
+		- put in your own reasonable and logical prices
+		- include the reasonings in the cost
+- # Q&A in Cost
+	- Difference between prototype and mass production
+	- Effectiveness of financial planning
+	- Financial and production risk management
+	- make or buy decisions?
+	- Environmental influence of your car (carbon footprint etc)
+	- Methods for software development cost calculation (they ll ask if u were to develop a software to build any component of thr car, hoe much would it cost. Give a reasoning logically for it)
+- # Engineering Design Event
+	- Powertrain
+	- Learn **Carol Smith** book about the competition rules, and how to prepare
