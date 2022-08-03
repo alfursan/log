@@ -22,5 +22,6 @@ public:: false
 	  id:: 4847faa0-cd7e-4f2f-bd35-7afab919f825
 - # Execution
 	- Send [[Application/Student Form]]
+	- Find out why others didn't join by selectively sending out forms
 	- Presidential elections in September
 	- Do interviews for core members
