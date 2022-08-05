@@ -1,2 +1,4 @@
-- Will use Google Calendar scheduling for students to book appointments
+- Will use online scheduling for students to book appointments
+	- Google Calendar
+	- Calendly
 - I believe 15min slots should be enough per person

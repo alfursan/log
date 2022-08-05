@@ -40,7 +40,7 @@
 	  	Finance
 	  	
 	   	Marketing
-	   	Sales
+	   	Sponsorships 
 	   	
 	  	ntl[Non-Technical Logistics]
 	  	
@@ -56,7 +56,7 @@
 	  Heads --- ad
 	  
 	  classDef del text-decoration:line-through, fill: grey
-	  class l,ms,Electrical,Sales del
+	  class l,ms,Electrical,Sponsorships del
 	  
 	  classDef Thahir fill: darkcyan
 	  class Thahir Thahir
