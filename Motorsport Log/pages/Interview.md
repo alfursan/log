@@ -1,0 +1,2 @@
+- Will use Google Calendar scheduling for students to book appointments
+- I believe 15min slots should be enough per person
