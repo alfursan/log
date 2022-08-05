@@ -1,3 +1,4 @@
+tags:: [[Plan]] 
 by:: [[Thahir]]
 public:: false
 
