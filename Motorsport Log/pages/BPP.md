@@ -1,6 +1,7 @@
 alias:: Business Plan Presentation
 
 - [[Thahir]] is offering to take responsibility of this
+- [Presentation](https://docs.google.com/presentation/d/1VMqi_9ZZxOTlFxq_tE4XXFMwPwxKEc8J/)
 - # Preparation
   Just these attention to detail will give a good impression
 	- Everyone wear formals
